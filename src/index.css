@@ -1,0 +1,24 @@
+@layer theme, custom-base, custom-components, custom-utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/preflight.css" layer(custom-base);
+@import "tailwindcss/utilities.css" layer(custom-utilities);
+
+*{
+ /* background-color:#2d3d33; */
+}
+@layer base {
+             /* section { @apply py-8; }      evita py-[30px] en @apply, usa tokens (p. ej. py-8) */
+  h1 { @apply text-4xl font-bold; }
+  h2 { @apply  mx-auto font-semibold tracking-tight  }
+  .titlesecond{ @apply text-4xl font-bold text-[#3c6724]}
+  .colorprimary{@apply text-[#2d3d33]}
+  .colorsecondary{@apply text-[#2a372f]}
+  .buttonprimary{@apply bg-[#66a939] text-white hover:bg-[#3c6724]}
+}
+@layer components {
+    .container{
+        @apply max-w-full w-[1280px] px-5 mx-auto;
+    }
+  }
+
+
