@@ -5,7 +5,7 @@ function CallToAction() {
     <section className="bg-primary-700 text-white py-16">
       <div className="mx-auto max-w-4xl px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold">
-          ¡Sumate al cambio en Río Gallegos!
+          ¡Sumate al cambio en el Calafate!
         </h2>
         <p className="mt-4 text-lg text-white/90">
           Registrate gratis en EcoRG y empezá a reciclar, ganar puntos y cuidar

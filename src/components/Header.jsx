@@ -4,7 +4,7 @@ import {
   FiMap, FiCalendar, FiAward, FiAlertCircle,
   FiBookOpen, FiUser, FiHome
 } from "react-icons/fi";
-import Logo from "../assets/ecorg-logo.png";
+import Logo from "../assets/ecoft.png";
 
 const linkClasses = ({ isActive }) =>
   `flex items-center space-x-2 px-1.5 py-3 rounded-lg font-medium transition-colors gap-[0.2rem] ${isActive

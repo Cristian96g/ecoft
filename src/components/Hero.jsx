@@ -32,7 +32,7 @@ export default function Hero({
             Gardening & Landscaping Services
           </h4> */}
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-            Fomentando el reciclaje <br />  y la conciencia ambiental<br /> en Río Gallegos 
+            Fomentando el reciclaje <br />  y la conciencia ambiental<br /> en el Calafate 
           </h1>
           <p className="mt-6 text-lg text-green-100 max-w-lg">
             EcoRG es tu plataforma para encontrar puntos verdes, seguir el calendario de recolección y reportar problemas ambientales

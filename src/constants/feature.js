@@ -2,7 +2,7 @@ export const features = [
   {
     "id": 1,
     "title": "Mapa de Puntos Verdes",
-    "description": "Encuentra los lugares de reciclaje disponibles en Río Gallegos, filtrando por tipo de residuo.",
+    "description": "Encuentra los lugares de reciclaje disponibles en el Calafate, filtrando por tipo de residuo.",
     "icon": "FiMap",
     "link": "/mapa"
   },

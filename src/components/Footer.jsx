@@ -1,6 +1,6 @@
 import React from "react";
 import { footerSections, socialLinks } from "../constants/footerData";
-import logo from "../assets/ecorg-logo.png";
+import logo from "../assets/ecoft.png";
 
 export default function Footer() {
   return (
@@ -81,7 +81,7 @@ export default function Footer() {
       <img src={logo} alt="ecorg" className="w-26" />
       </div>
       <div class="grid justify-between grid-cols-3 gap-4">
-        <ul>
+        {/* <ul>
           <p class="block mb-1 text-base font-semibold  text-white">
             Product
           </p>
@@ -155,14 +155,13 @@ export default function Footer() {
               Help center
             </a>
           </li>
-        </ul>
+        </ul> */}
       </div>
     </div>
     <div class="flex flex-col items-center justify-center w-full py-4 mt-12 border-t border-slate-200 md:flex-row md:justify-between">
       <p class="block mb-4 text-sm text-center text-white md:mb-0">
-        Copyright © 2024 
-        <a href="https://material-tailwind.com/">Material Tailwind</a>. All
-        Rights Reserved.
+        Copyright © 2025
+        <a href="https://material-tailwind.com/">Pilar Ayala</a>. Todos los derechos reservados.
       </p>
       <div class="flex gap-4 text-text-white sm:justify-center">
         <a href="#" class="block transition-opacity text-white hover:opacity-80">
