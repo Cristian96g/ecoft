@@ -28,7 +28,7 @@ export default function MapLeaflet({ points = [] }) {
   useEffect(() => {
     if (!mapRef.current) {
       // Río Gallegos -> lat, lng
-      mapRef.current = L.map("map").setView([-51.623, -69.216], 13);
+      mapRef.current = L.map("map").setView([-50.340, -72.264], 13);
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: "&copy; OpenStreetMap contributors"
       }).addTo(mapRef.current);

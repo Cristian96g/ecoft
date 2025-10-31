@@ -35,7 +35,7 @@ export default function Hero({
             Fomentando el reciclaje <br />  y la conciencia ambiental<br /> en el Calafate 
           </h1>
           <p className="mt-6 text-lg text-green-100 max-w-lg">
-            EcoRG es tu plataforma para encontrar puntos verdes, seguir el calendario de recolección y reportar problemas ambientales
+            EcoFt es tu plataforma para encontrar puntos verdes, seguir el calendario de recolección y reportar problemas ambientales
           </p>
           <div className="mt-8">
             <a

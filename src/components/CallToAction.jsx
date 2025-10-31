@@ -8,7 +8,7 @@ function CallToAction() {
           ¡Sumate al cambio en el Calafate!
         </h2>
         <p className="mt-4 text-lg text-white/90">
-          Registrate gratis en EcoRG y empezá a reciclar, ganar puntos y cuidar
+          Registrate gratis en EcoFt y empezá a reciclar, ganar puntos y cuidar
           el ambiente junto a toda la comunidad.
         </p>
         <Link

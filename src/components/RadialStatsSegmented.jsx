@@ -12,7 +12,7 @@ export default function RadialStatsSegmented() {
     {
       value: "15,000+",
       label: "Usuarios Activos",
-      desc: "Personas usando EcoRG para mapear puntos verdes y reciclar.",
+      desc: "Personas usando EcoFt para mapear puntos verdes y reciclar.",
       Icon: FiUsers,
     },
     {

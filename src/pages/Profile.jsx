@@ -3,10 +3,10 @@ import { FiEdit2, FiSave, FiX, FiUpload } from "react-icons/fi";
 
 // Mock inicial (reemplazá por tu fetch/auth)
 const mockUser = {
-  nombre: "Cristian Gómez",
-  email: "cristian@example.com",
+  nombre: "Pilar Ayala",
+  email: "pilarayala@example.com",
   telefono: "+54 2966 123456",
-  direccion: "Av. San Martín 123",
+  direccion: "Las heras 123",
   barrio: "Centro",
   avatarUrl: "",
   preferencias: {

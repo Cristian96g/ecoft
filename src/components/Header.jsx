@@ -21,7 +21,7 @@ function Header() {
         </h1> */}
         <img
           src={Logo}
-          alt="EcoRG logo"
+          alt="EcoFt logo"
           className="h-16 w-auto"
           draggable="false"
         />
